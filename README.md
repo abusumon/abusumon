@@ -6,6 +6,7 @@
   - 🗃️ Data structures and algorithms
   - 📊 Dynamic programming
   - 🖥️ Fortran and its applications in scientific computing
+  - 📊 Solving mathematical problems and modeling with MATLAB
   - 🗄️ SQL for database management
   - 🤖 Robotics programming and machine learning
   - 🔧 Competitive programming strategies and problem-solving
